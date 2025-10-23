@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
+}
+div#celular{
+    background: black url(pacote-d013/imagens/frame-iphone.png) center center no-repeat scroll;
+}
